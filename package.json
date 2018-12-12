@@ -1,5 +1,6 @@
 {
-  "name": "socket.io",
+  "name": "socket.io-legacy",
+  "private": true,
   "version": "1.7.4",
   "description": "node.js realtime framework server",
   "keywords": [
